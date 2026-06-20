@@ -1,0 +1,11 @@
+# Secret App Configuration Directory
+/cnf/config.php
+
+# Composer package directory
+/vendor/
+
+# Laragon / Local Dev Environment configurations
+.idea/
+.vscode/
+*.log
+.env
