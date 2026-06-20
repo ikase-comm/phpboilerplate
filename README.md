@@ -14,7 +14,7 @@ A secure, high-performance, and lightweight MVC boilerplate utilizing a single-e
 │   ├── Core/             # Base configurations & Database singletons
 │   ├── Model/            # Data layer queries
 │   └── View/             # Presentation templates
-├── www/                  # PUBLIC: Web server root directory mapping
+├── public/               # PUBLIC: Web server root directory mapping
 │   ├── .htaccess         # Production-ready URL rewrite engine
 │   └── index.php         # Single Front Controller entry-point
 ├── .gitignore            # Git tracking rules
